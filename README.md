@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mericadiguzel
-- 👀 I’m interested in iOS Development & Blockchain  
-- 🌱 I’m currently learning Swift 
+- 👀 I’m interested in iOS Development and I'm junior product manager.
+- 🌱 I’m currently learning Swift
 - 📫 How to reach meric.adiguzel@gmail.com
 
 <!---
